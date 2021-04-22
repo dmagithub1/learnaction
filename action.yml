@@ -1,0 +1,7 @@
+name: 'learn action'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
+  args: 
+   - 'dma'
+
